@@ -7,7 +7,6 @@ class FrontPage extends Component {
     return (
       <div className="FrontPage">
         hallo front page
-        <AboutUs/>
       </div>
     );
   }
