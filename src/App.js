@@ -4,7 +4,7 @@ import { BrowserRouter, Route} from 'react-router-dom';
 
 import FrontPage from './components/FrontPage.js';
 import AboutUs from './components/AboutUs.js';
-import FrontPageCover from './images/Artboard.svg'
+import FrontPageCover from './images/FrontPageCoverBlack.svg'
 
 const App = (props) => (
   <BrowserRouter>

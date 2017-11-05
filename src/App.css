@@ -1,3 +1,7 @@
+body {
+  background-color: #19292b;
+
+}
 .App {
   display: flex;
   flex: 1;
