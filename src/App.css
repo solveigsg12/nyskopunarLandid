@@ -1,5 +1,18 @@
+body {
+  background-color: #19292b;
+
+}
 .App {
-  margin: 0;
-  height: 100%;
-  overflow: hidden;
+  display: flex;
+  flex: 1;
+}
+
+.coverPhoto {
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
 }

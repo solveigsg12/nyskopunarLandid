@@ -1,9 +1,4 @@
 .frontPageContainer{
-  display: flex;
-  flex: 1;
-  width: 100vw;
-  height: 100vh;
-  background: url(../images/FrontPageCover.svg);
-  background-size: 100vw 100vh;
+
 
 }
